@@ -1,0 +1,5 @@
+/Users/cg202013/Projects/AcmeCustomerManagement/Core.Common/bin/Debug/ACM.Library.dll
+/Users/cg202013/Projects/AcmeCustomerManagement/Core.Common/bin/Debug/ACM.Library.pdb
+/Users/cg202013/Projects/AcmeCustomerManagement/Core.Common/obj/Debug/Core.Common.csproj.CoreCompileInputs.cache
+/Users/cg202013/Projects/AcmeCustomerManagement/Core.Common/obj/Debug/ACM.Library.dll
+/Users/cg202013/Projects/AcmeCustomerManagement/Core.Common/obj/Debug/ACM.Library.pdb

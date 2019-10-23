@@ -1,0 +1,17 @@
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/bin/Debug/ACM.Win.exe.config
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/bin/Debug/ACM.Win.exe
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/bin/Debug/ACM.Win.pdb
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/bin/Debug/ACM.BL.dll
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/bin/Debug/ACM.Library.dll
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/bin/Debug/ACM.BL.pdb
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/bin/Debug/ACM.BL.xml
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/bin/Debug/ACM.Library.pdb
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/obj/Debug/ACM.Win.csprojAssemblyReference.cache
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/obj/Debug/ACM.Win.OrderWin.resources
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/obj/Debug/ACM.Win.PedometerWin.resources
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/obj/Debug/ACM.Win.Properties.Resources.resources
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/obj/Debug/ACM.Win.csproj.GenerateResource.cache
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/obj/Debug/ACM.Win.csproj.CoreCompileInputs.cache
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/obj/Debug/ACM.Win.csproj.CopyComplete
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/obj/Debug/ACM.Win.exe
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.Win/obj/Debug/ACM.Win.pdb

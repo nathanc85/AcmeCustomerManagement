@@ -1,0 +1,10 @@
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/bin/Debug/ACM.BL.xml
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/bin/Debug/ACM.BL.dll
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/bin/Debug/ACM.BL.pdb
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/bin/Debug/ACM.Library.dll
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/bin/Debug/ACM.Library.pdb
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/obj/Debug/ACM.BL.csprojAssemblyReference.cache
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/obj/Debug/ACM.BL.csproj.CoreCompileInputs.cache
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/obj/Debug/ACM.BL.csproj.CopyComplete
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/obj/Debug/ACM.BL.dll
+/Users/cg202013/Projects/AcmeCustomerManagement/ACM.BL/obj/Debug/ACM.BL.pdb

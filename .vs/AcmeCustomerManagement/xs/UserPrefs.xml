@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{856CA2B8-8C37-4F7D-97F6-8F072FE063CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ACM.Win/PedometerWin.cs">
+    <Files>
+      <File FileName="ACM.Win/PedometerWin.cs" Line="13" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AcmeCustomerManagement" expanded="True">
+            <Node name="ACM.BL" expanded="True" />
+            <Node name="ACM.Win" expanded="True">
+              <Node name="PedometerWin.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ACM.Win PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
